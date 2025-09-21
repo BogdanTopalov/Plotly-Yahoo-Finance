@@ -1,0 +1,6 @@
+dash
+plotly
+yfinance
+pandas
+dash-ag-grid
+flask-caching
