@@ -1,5 +1,5 @@
 
-# Plotly Yahoo Finance — Stock Price Dashboard
+# Plotly Yahoo Finance Stock Price Dashboard
 
 Interactive Dash app that fetches historical stock data from Yahoo Finance and visualizes it with Plotly.
 
